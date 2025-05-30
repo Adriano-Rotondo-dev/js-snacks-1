@@ -21,4 +21,5 @@ alert("These are your chosen numbers " + firstNumber + " and " + secondNumber )
 let largeNumber = Math.max(firstNumber, secondNumber)
 console.log(largeNumber)
 alert("The largest number is " + largeNumber)
+
 */
