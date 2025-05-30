@@ -17,7 +17,7 @@
         console.log(laterWord  + " is shorter than " + earlyWord)
         alert( laterWord  + " is shorter than " + earlyWord)
     }
-    else if (earlyWord.length == laterWord.length) {
+    else if (earlyWord.length === laterWord.length) {
         console.log ("Both words are the same length")
         alert("Both words are the same length")
     }
