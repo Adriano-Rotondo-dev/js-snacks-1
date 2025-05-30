@@ -10,3 +10,4 @@ for (let i = 0; i < 10; i++) {
 console.log(numeri)
 console.log(somma);
 alert("La somma dei numeri ottenuti è " + somma);
+
