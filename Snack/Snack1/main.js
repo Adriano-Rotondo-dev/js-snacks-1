@@ -1,14 +1,16 @@
 // TODO: l'utente stampa due numeri in successione, con due prompt. Il software stampa il maggiore.
-
- const firstNumber = 10;
+/*
+const firstNumber = 10;
 const secondNumber = 15;
 console.log( firstNumber + " and " + secondNumber);
 
 const biggerNumber = Math.max(firstNumber, secondNumber)
 console.log(biggerNumber);
 
+*/
 
-/* come doveva essere nel file perduto, non contarlo 😢
+
+// come doveva essere nel file perduto, non contarlo 😢
 
 let firstNumber = Number(prompt ("Enter your first choice of number"))
 console.log(firstNumber)
@@ -22,4 +24,3 @@ let largeNumber = Math.max(firstNumber, secondNumber)
 console.log(largeNumber)
 alert("The largest number is " + largeNumber)
 
-*/
